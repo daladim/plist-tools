@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>12.8.0.150</string>
+	<key>Date</key><date>2022-10-09T11:59:16Z</date>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>FA4BFDB7C15CBD8E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4491</key>
+		<dict>
+			<key>Track ID</key><integer>4491</integer>
+			<key>Date Added</key><date>2014-10-18T16:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>299</integer>
+			<key>Play Date</key><integer>3567968916</integer>
+			<key>Play Date UTC</key><date>2017-01-22T21:28:36Z</date>
+			<key>Rating</key><integer>1</integer>
+			<key>Rating Computed</key><true/>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Persistent ID</key><string>499E6B1379C9B8A7</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Name</key><string>http://prog.pure.fm</string>
+			<key>Kind</key><string>Flux audio sur Internet</string>
+			<key>Location</key><string>http://prog.pure.fm</string>
+		</dict>
+		<key>4493</key>
+		<dict>
+			<key>Track ID</key><integer>4493</integer>
+			<key>Size</key><integer>1447572</integer>
+			<key>Total Time</key><integer>80326</integer>
+			<key>Track Number</key><integer>31</integer>
+			<key>Track Count</key><integer>31</integer>
+			<key>BPM</key><integer>135</integer>
+			<key>Date Modified</key><date>2014-12-30T20:16:30Z</date>
+			<key>Date Added</key><date>2014-10-25T17:13:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3660821208</integer>
+			<key>Play Date UTC</key><date>2020-01-02T13:46:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2011-05-23T15:13:16Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>1</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D1493FFC5F67634</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Full Tilt</string>
+			<key>Artist</key><string>Pandemonium!</string>
+			<key>Album</key><string>Pandemonium!</string>
+			<key>Genre</key><string>Musique de jeu</string>
+			<key>Kind</key><string>Fichier audio MPEG</string>
+			<key>Location</key><string>file://localhost/C:/Users/J%C3%A9r%C3%B4me/Music/iTunes/iTunes%20Media/Music/Pandemonium!/Pandemonium!/31%20Full%20Tilt.mp3</string>
+		</dict>
+		<key>4495</key>
+		<dict>
+			<key>Track ID</key><integer>4495</integer>
+			<key>Size</key><integer>7248843</integer>
+			<key>Total Time</key><integer>297064</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>BPM</key><integer>132</integer>
+			<key>Date Modified</key><date>2017-07-26T20:41:19Z</date>
+			<key>Date Added</key><date>2014-10-25T17:13:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3568558827</integer>
+			<key>Play Date UTC</key><date>2017-01-29T17:20:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2012-02-26T10:08:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25FA620731E82CA0</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rumenian</string>
+			<key>Artist</key><string>Benassi Bros</string>
+			<key>Album</key><string>Pumphonia</string>
+			<key>Genre</key><string>House Bien Lourde</string>
+			<key>Kind</key><string>Fichier audio MPEG</string>
+			<key>Location</key><string>file://localhost/C:/Users/J%C3%A9r%C3%B4me/Music/iTunes/iTunes%20Media/Music/Benassi%20Bros/Pumphonia/03%20Rumenian.mp3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
